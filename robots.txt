@@ -1,0 +1,26 @@
+#Inbound
+User-agent: Baiduspider
+Disallow: /
+User-agent: Sosospider
+Disallow: /
+User-agent: sogou spider
+Disallow: /
+User-agent: YodaoBot
+Disallow: /
+
+#Outbound
+User-agent: *
+Allow: /favicon.ico
+Allow: /archives
+Allow: /friends
+Allow: /post-images
+Allow: /post
+Allow: /posts
+Allow: /tag
+Allow: /tags
+Disallow: /post/hello-gridea
+Disallow: /tag/opBvWSQEk
+Disallow: /api-content
+Disallow: /api-info
+Disallow: /styles
+

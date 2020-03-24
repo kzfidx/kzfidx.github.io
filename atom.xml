@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kwokzit.info</id>
+    <title>Kwok Zit</title>
+    <updated>2020-03-24T17:40:40.989Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kwokzit.info"/>
+    <link rel="self" href="https://kwokzit.info/atom.xml"/>
+    <subtitle>如果發現很久沒有更新了，那就是要再等等。</subtitle>
+    <logo>https://kwokzit.info/images/avatar.png</logo>
+    <icon>https://kwokzit.info/favicon.ico</icon>
+    <rights>All rights reserved 2020, Kwok Zit</rights>
+    <entry>
+        <title type="html"><![CDATA[Geek魂]]></title>
+        <id>https://kwokzit.info/post/geek-soul/</id>
+        <link href="https://kwokzit.info/post/geek-soul/">
+        </link>
+        <updated>2020-03-23T13:22:52.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>這個詞來自英語方言，geek或geck（意思是「傻瓜」或「怪胎」）。這詞的詞根可以追溯到荷蘭和南非荷蘭語的形容詞GEK（「瘋狂」）。 在英語中，這個詞首先出現在羅伯特·海因萊因的1952年短篇小說《困境的一年》。——wiki「<a href="https://zh.wikipedia.org/wiki/极客" title="詞源" target="_blank">極客</a>」</p>
+</blockquote>
+<p>我覺得，那誰說的一句話就很符合所謂的「Geek魂」</p>
+<blockquote>
+<p>Stay foolish, stay hungry. -- Stven Jobs@ Stanford 2005</p>
+</blockquote>
+<p>紀念一下突然又興起的Blog癮。</p>
+]]></content>
+    </entry>
+</feed>
