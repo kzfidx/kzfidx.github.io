@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kwokzit.info</id>
     <title>戴舒柯</title>
-    <updated>2020-03-28T14:05:36.253Z</updated>
+    <updated>2020-03-28T15:19:31.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kwokzit.info"/>
     <link rel="self" href="https://kwokzit.info/atom.xml"/>
@@ -43,7 +43,8 @@
         </link>
         <updated>2020-03-26T16:23:52.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>來自Podcast：<a href="http://www.ximalaya.com/album/33920260.xml">abC藝術書展</a>-<a href="https://media.rss.com/abecedarian/feed.xml">初學者電台</a></p>
+<img src="http://fdfs.xmcdn.com/group75/M01/B7/5C/wKgO015SlOrQ6kxCAAnaS5YkrrU982.jpg" alt="初學者電台" style="zoom:3%;" align="left" /> 
+<p>來自Podcast：<a href="http://www.ximalaya.com/album/33920260.xml">abC藝術書展</a><a href="https://media.rss.com/abecedarian/feed.xml">-初學者電台</a></p>
 </blockquote>
 <h2 id="abc-mixtape-04-如果我在麥當勞演出的playlist-文予真選歌">abC Mixtape #04 - 如果我在麥當勞演出的Playlist | 文予真選歌</h2>
 <p>Playlist-Sat, 21 Mar 2020 11:53:50 GMT-</p>
