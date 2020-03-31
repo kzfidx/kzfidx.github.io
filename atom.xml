@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kwokzit.info</id>
     <title>戴舒柯</title>
-    <updated>2020-03-28T15:19:31.021Z</updated>
+    <updated>2020-03-31T05:17:56.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kwokzit.info"/>
     <link rel="self" href="https://kwokzit.info/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://kwokzit.info/images/avatar.png</logo>
     <icon>https://kwokzit.info/favicon.ico</icon>
     <rights>All rights reserved 2020, 戴舒柯</rights>
+    <entry>
+        <title type="html"><![CDATA[讓我來試試！「黑白模式」#01]]></title>
+        <id>https://kwokzit.info/post/try-it-grayscale-01/</id>
+        <link href="https://kwokzit.info/post/try-it-grayscale-01/">
+        </link>
+        <updated>2020-03-29T13:48:25.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="突發奇想">突發奇想</h3>
+<p>祗要涉獵得夠廣，資訊的timeline就永遠看不到頭，祗要下拉一下，馬上又刷新了新的東西出來，應接不暇。然而，祗要渠道足夠多，找到想瞭解的資訊也不困難，那為甚麼我就不可以從被動接受這些形式各異的訊息流，轉變成有需要才主動去搜尋呢？</p>
+<p>於是，「我要戒電話」這個念頭就突然冒了出來。</p>
+<h3 id="要怎麼戒">要怎麼戒</h3>
+<figure>
+ <img src="/post-images/try-it-grayscale/1585626903456.png" title="Click it！" alt="Grayscale" data-alt="/post-images/try-it-grayscale/1585626903456.gif"/>
+</figure> 
+<script src="/media/script/playGif.js" type="text/javascript"></script>
+<p>老實說，我還沒想好，到底「戒電話」要怎麼戒呢？五彩繽紛、動態...這些都是訊息流具有的特徵，就是為了吸引眼球。那，要不從一開始就改變這種屬性試試看吧！於是我就想到，把電話設置成「黑白模式」，把它與真實世界的差距拉大，與計劃用來搜尋資訊的電腦產生差異。把電話改成「黑白」，讓自己產生一種這個工具僅僅是一隻通訊工具的想法，把瀏覽資訊的屬性重新放回電腦上，由於電腦的便攜性能並沒有電話的好，這樣也許就能戒掉自己經常一看電話就天荒地老的習慣吧。</p>
+<h3 id="點一下上面">點一下上面</h3>
+<p>上面的是一張GIF，做成了點擊才播放。簡單來說就是設置了兩張圖片，一張是靜態，一張是GIF。利用JS，每一次點擊的動作就轉換一次顯示的對象。</p>
+<blockquote>
+<p>來源：<a href="https://www.hongkiat.com/blog/on-click-animated-gif/">How to Play Animated GIFs onClick - Hongkiat</a></p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[會動的wallpaper好好看！自己做！]]></title>
         <id>https://kwokzit.info/post/dynamic-wallpaper-create-myself/</id>
