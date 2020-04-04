@@ -20,6 +20,8 @@ Allow: /tag
 Allow: /tags
 Disallow: /api-content
 Disallow: /api-info
+Disallow: /donate
 Disallow: /styles
 Disallow: /media
+Disallow: /page
 Disallow: /search
