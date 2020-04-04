@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kwokzit.info</id>
     <title>戴舒柯</title>
-    <updated>2020-03-31T05:33:59.669Z</updated>
+    <updated>2020-04-04T03:07:46.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kwokzit.info"/>
     <link rel="self" href="https://kwokzit.info/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://kwokzit.info/images/avatar.png</logo>
     <icon>https://kwokzit.info/favicon.ico</icon>
     <rights>All rights reserved 2020, 戴舒柯</rights>
+    <entry>
+        <title type="html"><![CDATA[互聯網檔案館]]></title>
+        <id>https://kwokzit.info/post/hu-lian-wang-dang-an-guan/</id>
+        <link href="https://kwokzit.info/post/hu-lian-wang-dang-an-guan/">
+        </link>
+        <updated>2020-04-04T03:03:34.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><a href="https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86">互聯網檔案館</a>（英語：Internet Archive）是一個非營利性的數位圖書館组织。成立于1996年，由Alexa创始人布鲁斯特·卡利创办。提供數字資料如網站、音樂、動態圖像、和數百萬書籍的永久性免費儲存及獲取。迄至2012年10月，其信息儲量達到10PB。除此之外，該檔案館也是網絡開放與自由化的倡議者之一。</p>
+</blockquote>
+<p>如果所有地方都找不到想要的東西，試試這裡：<a href="https://archive.org/">https://archive.org/</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓我來試試！「黑白模式」#01]]></title>
         <id>https://kwokzit.info/post/try-it-grayscale-01/</id>
