@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kwokzit.info</id>
     <title>戴舒柯</title>
-    <updated>2020-04-06T17:33:31.661Z</updated>
+    <updated>2020-04-06T17:37:37.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kwokzit.info"/>
     <link rel="self" href="https://kwokzit.info/atom.xml"/>
@@ -27,7 +27,7 @@
 <img src="/post-images/try-it-folding-at-home/fah-6192688.png" alt="FAH Client" style="zoom:50%;" />
 <p>首先，到F@H網站的<a href="https://foldingathome.org/start-folding/">下載</a>頁面，網站會自動適配對應的客戶端。下載，安裝，然後瀏覽器會跳轉啟動客戶端頁面，忽視它...</p>
 <h3 id="設置幾下">設置幾下</h3>
-<img src="../post-images/try-it-folding-at-home/fah_identity.png" alt="FAH Configure" style="zoom:50%;" />
+<img src="/post-images/try-it-folding-at-home/fah_identity.png" alt="FAH Configure" style="zoom:50%;" />
 <p>打開客戶端之後，點擊「Configure」選擇「Identity」頁面，輸入一個自己想要的名字，也可以使用默認的「Anonymous」匿名進行項目，Team number填寫「<a href="https://apps.foldingathome.org/teamstats/team3213.html">3213</a>」加入中國隊，當然也可以默認「0」，反正最後還是為人類出一分力。點擊頁面的鏈接打開網頁，輸入自己的名字跟郵箱地址，接收一個Passkey，然後再重複粘貼到上面的兩個空位上；</p>
 <img src="/post-images/try-it-folding-at-home/fah_slots.png" alt="FAH Configure" style="zoom:50%;" />
 <p>然後選擇「Slots」頁面設置硬件使用的部分，點擊「ID 0」的CPU，再點擊「Add」添加如圖的參數，「Name：client-type，Value：advanced」；</p>
