@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kwokzit.info</id>
     <title>戴舒柯</title>
-    <updated>2020-04-07T06:50:03.660Z</updated>
+    <updated>2020-04-11T11:11:03.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kwokzit.info"/>
     <link rel="self" href="https://kwokzit.info/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://kwokzit.info/images/avatar.png</logo>
     <icon>https://kwokzit.info/favicon.ico</icon>
     <rights>All rights reserved 2020, 戴舒柯</rights>
+    <entry>
+        <title type="html"><![CDATA[噓，你聽@地面電台]]></title>
+        <id>https://kwokzit.info/post/playlist-GROUNDRADIO-01/</id>
+        <link href="https://kwokzit.info/post/playlist-GROUNDRADIO-01/">
+        </link>
+        <updated>2020-04-11T10:47:55.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<img src="https://assets.fireside.fm/file/fireside-images/podcasts/images/5/53b8c2ae-c034-4543-b4a0-749d0255a46f/cover_small.jpg" alt="GOUNDRADIO" style="zoom:25%;" align="left"/>
+<p>來自Podcast：<a href="https://groundradio.fireside.fm/">地面電台</a><a href="https://media.fireside.fm/file/fireside-audio/podcasts/audio/5/53b8c2ae-c034-4543-b4a0-749d0255a46f/episodes/0/00d1ab33-5002-4f4a-9a3b-da513701e514/00d1ab33-5002-4f4a-9a3b-da513701e514.mp3">GROUNDRADIO</a></p>
+<p>轉載自：<a href="https://sspai.com/post/59939">少數派-地面電台 EP01：不管怎麼樣我就是要聽歌！</a></p>
+</blockquote>
+<p>地面电台是以广州为据点，机缘巧合之下碰头在一起的三个普通乐迷。在单纯的想和别人聊聊音乐发现已经无处可聊的时候，三个人决定制作这么一档网络电台节目，以建立一块能够以讨论音乐本身为主体的空间。</p>
+<h3 id="本期节目中用到的音乐片段">本期节目中用到的音乐片段</h3>
+<ul>
+<li>The Cure - Play For Today (Live)</li>
+<li>구남과여라이딩스텔라 - 젊은이</li>
+<li>The Western Expanse - Recolor</li>
+<li>Bauhaus - Bela Lugosi's Dead</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓我來試試！為攻克COVID-19做貢獻！]]></title>
         <id>https://kwokzit.info/post/try-it-folding-at-home/</id>
@@ -110,7 +131,8 @@
         <updated>2020-03-26T16:23:52.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <img src="http://fdfs.xmcdn.com/group75/M01/B7/5C/wKgO015SlOrQ6kxCAAnaS5YkrrU982.jpg" alt="初學者電台" style="zoom:3%;" align="left" /> 
-<p>來自Podcast：<a href="http://www.ximalaya.com/album/33920260.xml">abC藝術書展</a><a href="https://media.rss.com/abecedarian/feed.xml">-初學者電台</a></p>
+<p>來自Podcast：<br>
+<a href="http://www.ximalaya.com/album/33920260.xml">abC藝術書展</a><a href="https://media.rss.com/abecedarian/feed.xml">-初學者電台</a></p>
 </blockquote>
 <h2 id="abc-mixtape-04-如果我在麥當勞演出的playlist-文予真選歌">abC Mixtape #04 - 如果我在麥當勞演出的Playlist | 文予真選歌</h2>
 <p>Playlist-Sat, 21 Mar 2020 11:53:50 GMT-</p>
